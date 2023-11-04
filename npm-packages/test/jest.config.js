@@ -1,4 +1,7 @@
-module.exports = {
+// jest.config.js
+export default {
   verbose: true,
-  // other configuration options
+  transform: {},
+  testEnvironment: "node",
+  // ...any other config you need
 };
