@@ -105,7 +105,7 @@ npm test
 
 ```
 
-#### 3.6 Test Coverage (optional)
+#### 3.5.1 Test Coverage (optional)
 
 Jest can also check how much of your code is covered by tests. You can run Jest with the --coverage flag to enable this feature.
 
@@ -114,3 +114,13 @@ Jest can also check how much of your code is covered by tests. You can run Jest 
 npm test -- --coverage
 
 ```
+
+This will create a coverage report in the coverage/ directory of your project, which you can view in your browser.
+
+#### 3.5.2 Continuous Integration (Optional)
+
+You can integrate Jest with continuous integration (CI) systems to run tests automatically when you push code changes. This can be configured using services like GitHub Actions, Travis CI, CircleCI, etc.
+
+For next time 😉
+
+## 4.
