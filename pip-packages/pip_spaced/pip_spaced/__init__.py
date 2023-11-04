@@ -3,3 +3,5 @@
 __author__ = """Gabriele Salvo"""
 __email__ = 'gabriielesalvo@gmail.com'
 __version__ = '0.1.0'
+
+from .pip_spaced import add_numbers

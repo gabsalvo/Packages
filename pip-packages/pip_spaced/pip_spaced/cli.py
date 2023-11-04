@@ -5,15 +5,14 @@ import sys
 
 def main():
     """Console script for pip_spaced."""
-    parser = argparse.ArgumentParser()
-    parser.add_argument('_', nargs='*')
+    parser = argparse.ArgumentParser(description='Add two numbers together.')
+    parser.add_argument('numbers', nargs='2', type=int, help="Two numbers to add")
     args = parser.parse_args()
 
-    print("Arguments: " + str(args._))
-    print("Replace this message by putting your code into "
-          "pip_spaced.cli.main")
-    return 0
+    result = add_numbers(*args.numbers)
+    print(f"The result is {result}")
 
 
 if __name__ == "__main__":
-    sys.exit(main())  # pragma: no cover
+    main()
+
