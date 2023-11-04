@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabsalvo/Packages.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Gabriele Salvo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabsalvo/Packages/issues"
+  },
+  "homepage": "https://github.com/gabsalvo/Packages#readme"
+}
