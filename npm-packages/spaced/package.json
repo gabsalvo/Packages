@@ -24,6 +24,9 @@
   "dependencies": {
     "@gabriele-salvo/test": "^2.0.0"
   },
+  "publishConfig": {
+    "@gabriele-salvo:registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
