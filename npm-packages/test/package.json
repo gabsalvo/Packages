@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gabsalvo/Packages/issues"
   },
+  "scripts": {
+    "test": "jest"
+  },
   "homepage": "https://github.com/gabsalvo/Packages#readme"
 }
