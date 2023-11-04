@@ -1,5 +1,3 @@
-function addNumber(a, b){
-	return a+b;
+export function addNumbers(a, b) {
+  return a + b;
 }
-
-module.exports = addNumber;
