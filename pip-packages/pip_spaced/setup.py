@@ -43,7 +43,7 @@ setup(
     packages=find_packages(include=['pip_spaced', 'pip_spaced.*']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/gabsalvo/pip_spaced',
+    url='https://github.com/gabsalvo/Packages/tree/main/pip-packages/pip_spaced',
     version='0.1.0',
     zip_safe=False,
 )
