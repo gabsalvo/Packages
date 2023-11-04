@@ -123,4 +123,46 @@ You can integrate Jest with continuous integration (CI) systems to run tests aut
 
 For next time 😉
 
-## 4.
+## 4. Document Your Package
+
+Create a README.md file explaining what your package does, how to install it, examples on how to use it, and any other information users might need.
+
+## 5. Publish Your Package
+
+Before publishing, make sure you have an account on [npm](https://www.npmjs.com/signup). Once you have an account and are logged in to npm on your machine **(npm login)**, you can publish your package:
+
+```sh
+
+npm publish
+
+```
+
+This is what you would normally do but we are learning here soooo
+
+**THIS IS WHAT WE ARE GOING TO DO**
+
+Let's change a bit out **package.json** like this:
+
+```js
+
+"name": "package-name",
+
+```
+
+to
+
+```js
+
+"name": "@username/package-name",
+
+```
+
+where _username_ is the one you use to npm login and remember to do the same in the **package-lock.json**
+
+_Finally we can publish using:_
+
+```sh
+
+npm publish --access public
+
+```
