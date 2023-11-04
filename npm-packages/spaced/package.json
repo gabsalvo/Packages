@@ -1,0 +1,23 @@
+{
+  "name": "spaced",
+  "version": "1.0.0",
+  "description": "spaced out",
+  "main": "spaced.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabsalvo/Packages.git"
+  },
+  "keywords": [
+    "space",
+    "test"
+  ],
+  "author": "Gabriele Salvo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabsalvo/Packages/issues"
+  },
+  "homepage": "https://github.com/gabsalvo/Packages#readme"
+}
