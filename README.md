@@ -1,3 +1,3 @@
 # My awesome collection of ready to use packages
 
-![gif](https://media0.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif?cid=ecf05e47773j8zdhibb6bnzz1br90aca5sudct1iqlsc7qie&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![gif](https://media3.giphy.com/media/3gJRDvjz1vc666fxPl/giphy.gif?cid=ecf05e47pk7ij47alvbucrr4jqhx7ccj5qsquahe4563kvkw&ep=v1_gifs_related&rid=giphy.gif&ct=g)
